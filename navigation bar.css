@@ -1,0 +1,124 @@
+body {
+  background-color: darkgray;
+}
+#unli {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+  float: right;
+}
+.navibar {
+  float: left;
+}
+.navibar {
+  display: block;
+  padding: 15px;
+  background-color: black;
+  color: white;
+}
+#toptext {
+  text-align: center;
+  margin-top: 33px;
+  background-color: lightgray;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  z-index: 100;
+}
+
+.toprow {
+  width: 25%;
+  margin-left: 100px;
+  z-index: 50;
+}
+
+.midrow {
+  width: 25%;
+  margin-left: 20%;
+  z-index: 50;
+}
+.content {
+  margin: 5%;
+  text-shadow: 2px 3px 3px black;
+  color: white;
+}
+.title {
+  text-align: center;
+}
+#nycmap {
+  width: 70%;
+  margin-left: 15%;
+  height: 50%;
+  float: center;
+}
+.hpimg {
+  height: 50vh;
+}
+.productname {
+  margin-left: 33%;
+  text-align: center;
+}
+.hot-product {
+  float: left;
+  margin-left: 13%;
+}
+
+.footer {
+  width: 33%;
+  /* background-color: blue; */
+  border-right: 2px solid black;
+  float: left;
+  height: 300px;
+}
+.bottomlist {
+  list-style-type: none;
+  margin-top: 10px;
+  list-style-type: circle;
+}
+.bottomitems {
+  margin-top: 10px;
+}
+.pagelink {
+  color: white;
+  text-decoration: none;
+}
+.hp {
+  float: left;
+  margin-top: 20px;
+}
+.bottomitems1 {
+  margin-top: 20px;
+  list-style-type: circle;
+}
+.navibar1 {
+  float: left;
+  list-style-type: none;
+  margin-left: 100px;
+  align-items: center;
+}
+.parentdiv {
+  width: 70%;
+  height: 70%;
+  border: 1px solid black;
+  /* margin-left: 10%;
+  margin-top: 10%; */
+  margin: 50px;
+  padding: 50px;
+  float: center;
+}
+.space{
+  margin-left: 90px;
+}
+.input{
+  height: 20px;
+  width: 200px;
+}
+.forward{
+  margin-left: 30px;
+  margin-bottom: 10px;
+}
+.childdiv{
+  /* margin: 20px; */
+  
+}
